@@ -41,13 +41,9 @@
   </a>&nbsp;&nbsp;
 
   <!-- NLP + AI (Bold Highlight) -->
-  <a href="https://www.nltk.org/" target="_blank">
-    <img src="https://www.nltk.org/images/logo.png" width="50" height="40"/>
-  </a>&nbsp;<b>NLTK</b>&nbsp;&nbsp;
+  &nbsp;<b>NLTK</b>&nbsp;&nbsp;
 
-  <a href="https://spacy.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/15074285?s=200&v=4" width="40" height="40"/>
-  </a>&nbsp;<b>spaCy</b>&nbsp;&nbsp;
+  &nbsp;<b>spaCy</b>&nbsp;&nbsp;
 
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
@@ -58,18 +54,14 @@
   </a>&nbsp;&nbsp;
 
   <!-- TensorRT with NVIDIA -->
-  <a href="https://developer.nvidia.com/tensorrt" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nvidia_logo.svg" width="60" height="40"/>
-  </a>&nbsp;<b>TensorRT</b>&nbsp;&nbsp;
+  &nbsp;<b>TensorRT</b>&nbsp;&nbsp;
 
   <!-- Systems Biology -->
-  <a href="https://opencobra.github.io/cobrapy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/opencobra/cobrapy/main/docs/_static/logo.png" width="40" height="40"/>
-  </a>&nbsp;<b>COBRApy</b>&nbsp;&nbsp;
+  &nbsp;<b>COBRApy</b>&nbsp;&nbsp;
 
   <a href="https://cytoscape.org/" target="_blank">
     <img src="https://cytoscape.org/images/logo.png" width="40" height="40"/>
-  </a>&nbsp;<b>Cytoscape</b>
+  </a>
 </p>
 
 ---
