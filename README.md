@@ -10,45 +10,44 @@
 - Fun fact **I am a sarcastic & systematic developer aiming for self-development and contributions**
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> 
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a> 
-
-<!-- Added ML/NLP Tools -->
-
-<a href="https://www.nltk.org/" target="_blank">
-    <img src="https://www.nltk.org/images/logo.png" width="50" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <!-- NLP + AI (Bold Highlight) -->
+  <a href="https://www.nltk.org/" target="_blank">
+    <img src="https://www.nltk.org/images/logo.png" width="50" height="40"/>
+  </a>&nbsp;<b>NLTK</b>&nbsp;&nbsp;
 
   <a href="https://spacy.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/15074285?s=200&v=4" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;<b>spaCy</b>&nbsp;&nbsp;
 
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
@@ -58,8 +57,44 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
+  <!-- TensorRT with NVIDIA -->
   <a href="https://developer.nvidia.com/tensorrt" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nvidia_logo.svg" width="50" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nvidia_logo.svg" width="60" height="40"/>
+  </a>&nbsp;<b>TensorRT</b>&nbsp;&nbsp;
 
+  <!-- Systems Biology -->
+  <a href="https://opencobra.github.io/cobrapy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/opencobra/cobrapy/main/docs/_static/logo.png" width="40" height="40"/>
+  </a>&nbsp;<b>COBRApy</b>&nbsp;&nbsp;
+
+  <a href="https://cytoscape.org/" target="_blank">
+    <img src="https://cytoscape.org/images/logo.png" width="40" height="40"/>
+  </a>&nbsp;<b>Cytoscape</b>
 </p>
+
+---
+
+<h3> Ongoing Projects</h3>
+
+<ul>
+  <li><b>Cellular Digital Twin</b> – Building computational models to simulate cellular behavior and drug toxicity using systems biology + ML & by utilising scRNA data with perturbed value.</li>
+  <li><b>Search Engine (Information Retrieval System)</b> – Designing a scalable IR system with ranking, indexing, and NLP-based query understanding.</li>
+</ul>
+
+---
+
+<h3>Research Papers That Shaped My Thinking</h3>
+
+<ul>
+  <li><b>Attention Is All You Need</b> – Vaswani et al., 2017  
+    <br/>🔗 https://arxiv.org/abs/1706.03762
+  </li>
+
+  <li><b>LoRA: Low-Rank Adaptation of Large Language Models</b> – Hu et al., 2021  
+    <br/>🔗 https://arxiv.org/abs/2106.09685
+  </li>
+
+  <li><b>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</b> – Lewis et al., 2020  
+    <br/>🔗 https://arxiv.org/abs/2005.11401
+  </li>
+</ul>
