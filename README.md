@@ -38,15 +38,17 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
   </a>
 
- <span style="font-weight:600; font-size:16px;">NLTK</span>
-  <span style="font-weight:600; font-size:16px;">spaCy</span>
-  <span style="font-weight:600; font-size:16px;">TensorRT (NVIDIA)</span>
-  <span style="font-weight:600; font-size:16px;">COBRApy</span>
-
-  <!-- Cytoscape -->
+   <!-- Cytoscape -->
   <a href="https://cytoscape.org/" target="_blank" title="Cytoscape">
     <img src="https://cytoscape.org/images/logo.png" width="45"/>
   </a>
+
+ <span style="font-weight:600; font-size:16px;">NLTK  |</span>
+  <span style="font-weight:600; font-size:16px;">spaCy  |</span>
+  <span style="font-weight:600; font-size:16px;">TensorRT (NVIDIA)  |</span>
+  <span style="font-weight:600; font-size:16px;">COBRApy</span>
+
+ 
 
 </p>
 
