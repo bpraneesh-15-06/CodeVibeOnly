@@ -42,24 +42,24 @@
 
 <!-- Added ML/NLP Tools -->
 
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_logo.png" alt="nltk" width="40" height="40"/> 
-</a> 
+<a href="https://www.nltk.org/" target="_blank">
+    <img src="https://www.nltk.org/images/logo.png" width="50" height="40"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="spacy" width="40" height="40"/> 
-</a> 
+  <a href="https://spacy.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/15074285?s=200&v=4" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
-</a> 
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
-</a> 
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> 
-  <img src="https://developer.nvidia.com/sites/default/files/akamai/designworks/images/TensorRT-Logo.png" alt="tensorrt" width="40" height="40"/> 
-</a> 
+  <a href="https://developer.nvidia.com/tensorrt" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nvidia_logo.svg" width="50" height="40"/>
+  </a>
 
 </p>
