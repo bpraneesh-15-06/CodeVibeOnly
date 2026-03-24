@@ -38,25 +38,10 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
   </a>
 
-  <!-- NLTK -->
-  <a href="https://www.nltk.org/" target="_blank" title="NLTK">
-    <img src="https://www.nltk.org/images/logo.png" width="55"/>
-  </a>
-
-  <!-- spaCy -->
-  <a href="https://spacy.io/" target="_blank" title="spaCy">
-    <img src="https://avatars.githubusercontent.com/u/15074285?s=200&v=4" width="45"/>
-  </a>
-
-  <!-- TensorRT (NVIDIA) -->
-  <a href="https://developer.nvidia.com/tensorrt" target="_blank" title="TensorRT">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nvidia_logo.svg" width="60"/>
-  </a>
-
-  <!-- COBRApy -->
-  <a href="https://opencobra.github.io/cobrapy/" target="_blank" title="COBRApy">
-    <img src="https://raw.githubusercontent.com/opencobra/cobrapy/main/docs/_static/logo.png" width="45"/>
-  </a>
+ <span style="font-weight:600; font-size:16px;">NLTK</span>
+  <span style="font-weight:600; font-size:16px;">spaCy</span>
+  <span style="font-weight:600; font-size:16px;">TensorRT (NVIDIA)</span>
+  <span style="font-weight:600; font-size:16px;">COBRApy</span>
 
   <!-- Cytoscape -->
   <a href="https://cytoscape.org/" target="_blank" title="Cytoscape">
