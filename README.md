@@ -11,57 +11,58 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 15px;">
+
+  <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- NLP + AI (Bold Highlight) -->
-  &nbsp;<b>NLTK</b>&nbsp;&nbsp;
-
-  &nbsp;<b>spaCy</b>&nbsp;&nbsp;
-
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- TensorRT with NVIDIA -->
-  &nbsp;<b>TensorRT</b>&nbsp;&nbsp;
-
-  <!-- Systems Biology -->
-  &nbsp;<b>COBRApy</b>&nbsp;&nbsp;
-
-  <a href="https://cytoscape.org/" target="_blank">
-    <img src="https://cytoscape.org/images/logo.png" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
   </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  </a>
+
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+  </a>
+
+  <!-- NLTK -->
+  <a href="https://www.nltk.org/" target="_blank" title="NLTK">
+    <img src="https://www.nltk.org/images/logo.png" width="55"/>
+  </a>
+
+  <!-- spaCy -->
+  <a href="https://spacy.io/" target="_blank" title="spaCy">
+    <img src="https://avatars.githubusercontent.com/u/15074285?s=200&v=4" width="45"/>
+  </a>
+
+  <!-- TensorRT (NVIDIA) -->
+  <a href="https://developer.nvidia.com/tensorrt" target="_blank" title="TensorRT">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nvidia_logo.svg" width="60"/>
+  </a>
+
+  <!-- COBRApy -->
+  <a href="https://opencobra.github.io/cobrapy/" target="_blank" title="COBRApy">
+    <img src="https://raw.githubusercontent.com/opencobra/cobrapy/main/docs/_static/logo.png" width="45"/>
+  </a>
+
+  <!-- Cytoscape -->
+  <a href="https://cytoscape.org/" target="_blank" title="Cytoscape">
+    <img src="https://cytoscape.org/images/logo.png" width="45"/>
+  </a>
+
 </p>
 
 ---
