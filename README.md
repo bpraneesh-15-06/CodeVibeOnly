@@ -9,14 +9,57 @@
 
 - Fun fact **I am a sarcastic & systematic developer aiming for self-development and contributions**
 
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_logo.png" alt="NLTK" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Scapy_logo.png" alt="Scapy" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="Neural Network" width="40" height="40"/>
+<p align="left"> 
 
-<b>NLTK</b> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<b>Scapy</b> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<b>Neural Networks</b>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</a> 
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+</a> 
+
+<!-- Added ML/NLP Tools -->
+
+<a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_logo.png" alt="nltk" width="40" height="40"/> 
+</a> 
+
+<a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="spacy" width="40" height="40"/> 
+</a> 
+
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
+</a> 
+
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+</a> 
+
+<a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> 
+  <img src="https://developer.nvidia.com/sites/default/files/akamai/designworks/images/TensorRT-Logo.png" alt="tensorrt" width="40" height="40"/> 
+</a> 
+
+</p>
